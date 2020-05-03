@@ -6,13 +6,13 @@
 # for i in range(1, 6):
 #     print(f'{i} --', '0'*i)
 #######
-# print('num 1')
-# i = 0
-# while i < 5:
-#     i += 1
-#     print('line', i, 'is 0')
-#
-# print('')
+ # print('num 1')
+ # i = 0
+ # while i < 5:
+ #     i += 1
+ #     print('line', i, 'is 0')
+ #
+ # print('')
 #######
 
 '''
